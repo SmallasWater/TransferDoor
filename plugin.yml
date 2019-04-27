@@ -1,0 +1,10 @@
+name: TransferDoor
+main: Door.load
+version: "1.0.5"
+api: ["1.0.3"]
+author: "若水"
+load: POSTWORLD
+commands:
+ pos:
+  description: §6传送门
+  usage: /pos help
